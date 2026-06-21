@@ -1,0 +1,35 @@
+{
+  "name": "strapi-security",
+  "version": "0.1.0",
+  "description": "Audit any Strapi CMS for public-role data exposure, CORS reflection, user enumeration and GraphQL introspection — and PROVE each leak live with an anonymous probe. No admin token needed for the keyless scan.",
+  "type": "module",
+  "bin": {
+    "strapi-security": "./scripts/cli.js"
+  },
+  "scripts": {
+    "audit": "node scripts/audit.js",
+    "test": "node test/audit.test.js"
+  },
+  "keywords": [
+    "strapi",
+    "security",
+    "security-audit",
+    "cms",
+    "headless-cms",
+    "auditor",
+    "devsecops",
+    "ai-agents",
+    "cors",
+    "data-exposure"
+  ],
+  "author": "Renzo Madueno (@Perufitlife)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Perufitlife/strapi-security"
+  },
+  "homepage": "https://github.com/Perufitlife/strapi-security",
+  "engines": {
+    "node": ">=18"
+  }
+}

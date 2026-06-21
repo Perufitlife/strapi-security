@@ -1,0 +1,4 @@
+node_modules/
+*.log
+strapi-report.html
+.DS_Store
