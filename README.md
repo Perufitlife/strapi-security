@@ -84,7 +84,9 @@ Same active-probe philosophy for the rest of the backend stack, all MIT:
 [appwrite-security](https://github.com/Perufitlife/appwrite-security-skill) ·
 [nhost-security](https://github.com/Perufitlife/nhost-security-skill) ·
 [directus-security](https://github.com/Perufitlife/directus-security) ·
-[convex-security](https://github.com/Perufitlife/convex-security)
+[convex-security](https://github.com/Perufitlife/convex-security) ·
+[hasura-security](https://github.com/Perufitlife/hasura-security) ·
+[payload-security](https://github.com/Perufitlife/payload-security)
 
 ## License
 
