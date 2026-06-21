@@ -83,7 +83,8 @@ Same active-probe philosophy for the rest of the backend stack, all MIT:
 [firebase-security](https://github.com/Perufitlife/firebase-security-skill) ·
 [appwrite-security](https://github.com/Perufitlife/appwrite-security-skill) ·
 [nhost-security](https://github.com/Perufitlife/nhost-security-skill) ·
-[directus-security](https://github.com/Perufitlife/directus-security)
+[directus-security](https://github.com/Perufitlife/directus-security) ·
+[convex-security](https://github.com/Perufitlife/convex-security)
 
 ## License
 
